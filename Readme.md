@@ -1,6 +1,6 @@
 # Hi! 👋
 
-![github info 1](https://github-readme-stats.vercel.app/api?username=TheRedmc-Off&show_icons=true&theme=gradient&include_all_commits=true)
+![github info 1](https://github-readme-stats.vercel.app/api?username=TheRedmc-Off&show_icons=true&theme=radical&include_all_commits=true)
   
 ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRedmc-Off&langs_count=14&theme=radical&layout=compact)
   
