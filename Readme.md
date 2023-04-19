@@ -1,6 +1,6 @@
 # Hi! 👋
 
-![github info 1](https://github-readme-stats.vercel.app/api?username=TheRedmc-Off&show_icons=true&bg_color=30,34e1e8,e97440&title_color=fff&text_color=fff&include_all_commits=true)
+![github info 1](https://github-readme-stats.vercel.app/api?username=TheRedmc-Off&show_icons=true&bg_color=30,34e1e8,e97440&title_color=fff&text_color=fff&theme=radical&include_all_commits=true)
 
 ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRedmc-Off&bg_color=30,34e1e8,e97440&title_color=fff&text_color=fff&langs_count=14&layout=compact)
   
