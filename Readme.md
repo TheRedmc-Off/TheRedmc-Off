@@ -12,11 +12,11 @@
 ## About me
 
 * ☕ Batch lover
-* 🔭 I’m currently working on a cracking app
-* 🌱 I’m currently learning python and nodejs
-* 👯 I’m looking to collaborate on everything
-* 🤔 I’m looking for help with vbs
-* 💬 Ask me about NOTHING (just kidding)
-* 📫 How to reach me: Don't talk about it... 
-* 😄 Pronouns: He/Him/Mf
-* ⚡ Fun fact: I like corn 🌽
+* 🔭 I’m currently working on an hacking app
+* 🌱 I’m currently learning JS, CSS and HTML
+* 👯 I’m looking to collaborate on python projects
+* 🤔 I’m looking for help with JS
+* 💬 Ask me about python (i'll try my best)
+* 📫 How to reach me: theredmc67@gmail.com
+* 😄 Pronouns: He/Him/Sus ඞ
+* ⚡ Fun fact: I like pizza 🍕🍕🍕
