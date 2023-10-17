@@ -12,11 +12,11 @@
 ## About me
 
 * ☕ Batch lover
-* 🔭 I’m currently working on an hacking app
+* 🔭 I’m currently working on an HTTP Server for file sharing
 * 🌱 I’m currently learning JS, CSS and HTML
 * 👯 I’m looking to collaborate on python projects
 * 🤔 I’m looking for help with JS
-* 💬 Ask me about python (i'll try my best)
+* 💬 Ask me about python code (i'll try my best)
 * 📫 How to reach me: theredmc67@gmail.com
 * 😄 Pronouns: He/Him/Sus ඞ
 * ⚡ Fun fact: I like pizza 🍕🍕🍕
