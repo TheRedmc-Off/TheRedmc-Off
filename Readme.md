@@ -19,6 +19,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=TheRedmc-Off&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- I created this readme using GPRM -->
-
----
-[![](https://visitcount.itsvg.in/api?id=TheRedmc_&icon=2&color=12)](https://visitcount.itsvg.in)
